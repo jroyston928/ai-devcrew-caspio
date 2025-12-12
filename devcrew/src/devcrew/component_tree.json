@@ -1,0 +1,12 @@
+{
+  "App": {
+    "Authentication": {},
+    "Search": {
+      "ExportButton": {},
+      "ResultsList": {}
+    },
+    "DarkModeToggle": {},
+    "ServiceWorker": {},
+    "ResponsiveLayout": {}
+  }
+}
